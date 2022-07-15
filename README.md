@@ -1,5 +1,5 @@
 # Fake News Detection
-fake news detection model using
+fake news detection model including
   - Logistic Regression
   - NLP
   - Function for call API
